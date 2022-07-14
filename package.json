@@ -1,5 +1,5 @@
 {
-  "name": "vue2-deploy-gh-pages",
+  "name": "vue2-gh-pages-deploy",
   "version": "0.1.0",
   "private": true,
   "scripts": {
